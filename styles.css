@@ -1,0 +1,40 @@
+
+form {
+    margin: 10px;
+}
+
+input {
+    color: white;
+    border-radius: 10px;
+    background-color: darkblue;
+    border: 6px solid cyan;
+}
+
+button {
+    color: white;
+    margin: 5px !important;
+    border-radius: 10px !important;
+    background-color: darkblue;
+    border: 6px solid cyan;
+}
+
+h2 {
+    padding: 10px;
+    color: white;
+    background-color: darkblue;
+}
+
+li {
+    color: darkblue;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: darkblue !important;
+    border: 6px solid cyan !important;
+    margin: 5px !important;
+    margin-left: 10px !important;
+}
+
+a {
+    color: royalblue dodgerblue !important;
+}
